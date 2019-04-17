@@ -1,13 +1,13 @@
-<p style="text-align: center; font-size: small">
+<address style="text-align: left; font-size: small">
 <strong>Mrs Such</strong>
 <em>Surrogate Manager</em>
 7 Street Address Name,
 1010101 City — Country Name
 Tel: + 0123456789
 [name@email.com](mailto:name@email.com)
-</p>
+</address>
 
-</br>
+
 </br>
 <address>Name</address>
 <address>Address line 1</address>
