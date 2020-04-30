@@ -1,0 +1,32 @@
+<address style="text-align: center; font-family: Avenir; font-size: small">
+**D. Untel**
+*Profession*
+87 rue Ceci-cela,
+1234 Ville
+Tel: + 32 (0) 475 418 327
+[mail@example.com](mailto:mail@example.com)
+</address>
+
+</br>
+</br>
+<address>J. Tellautre</address>
+<address>Adresse ligne 1</address>
+<address>Adresse ligne 2</address>
+<address>Code Postal, Ville</address>
+</br>
+<address>*Ville, le 30 Avril 2020*</address>
+
+**Référence: #0106**
+> Sujet: choisir “Référence” ou “Sujet” 
+
+Cher Monsieur Tellautre,
+
+
+Bla, bla, bla. 
+
+
+En vous remerciant de votre diligence, je vous prie de croire, Madame, Monsieur, à l’expression de ma considération distinguée.
+
+D. Untel
+
+
