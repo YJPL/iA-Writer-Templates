@@ -16,3 +16,12 @@ Un modèle de lettre en français modifiable avec tout [modèle iAWriter](https:
 <figure>
 <a href="https://github.com/YJPL/iA-Writer-Templates/blob/master/Lettre_01.txt"><img src="https://raw.githubusercontent.com/YJPL/iA-Writer-Templates/master/Preview/iAWriter_Francais_modele-lettre_01_preview.png"/></a>
 </figure>
+
+### [Scope of work](https://github.com/YJPL/iA-Writer-Templates/blob/master/Scope_of_work.txt)
+This is a basic scope of work template, useful for RFP purpose that you can style with any existing [iAWriter template](https://ia.net/writer/templates). 
+
+<figure>
+<a href="https://github.com/YJPL/iA-Writer-Templates/blob/master/Scope_of_work.txt"><img src="https://raw.githubusercontent.com/YJPL/iA-Writer-Templates/master/Preview/iAWriter_Scope_of_work_preview.png"/></a>
+</figure>
+
+

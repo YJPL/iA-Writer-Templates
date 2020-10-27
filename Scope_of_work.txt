@@ -1,0 +1,68 @@
+Company: SpaceZ
+Contact: Nemo Lusk
+Title: Chief Comparative thanatologist & Dilution Manager
+Date: October 29, 2020
+References: For more details, look here
+Offer: 
+Deliverables: 
+Budget:
+MyCompany: M Inc.
+Me: John Chrysostom Doe 
+MyAddress:
+MyDetails
+---
+
+
+*Prepared for [%Contact], [%Title], [%Company], [%Date]*
+
+## Scope of work
+
+### Part 1 — This
+
+This is gonna be like this
+
+### Part 2 — That
+
+This is gonna be like that
+
+## References
+[%References]
+
+## Deliverables
+The thing
+## Budget 
+
+| TOTAL | Excl. VAT | Incl. VAT |
+|:-|:-|:-|
+| preparation /  | ```￥ 15.000``` | ```￥ 18.150``` |
+| live session on event day | ```€ 1.400``` | ```€ 1.694``` |
+| expenses | ```$ TBD``` | ```$ TBD``` |
+| TOTAL | **`€ This much + expenses`** | **`€ That much + expenses`** |
+
+## Thank you
+Thank you for getting me involved with this project. I’m delighted and ready to move forward.
+
+## Contact:
+
+**[%MyCompany]**	
+*[%Me]*
+
+	Street number
+	City 111
+	+00 (0) 123 456 789
+
+<small>[https://example.com](https://example.com)
+
+[jc@example.com](mailto:jc@example.com)
+
+
+	VAT: BE 0.123.4 56.789
+	Bank details 123-4567890-00
+	IBAN: #FFFF 123-4567890-00
+	BIC: 123-4567890-00
+
++++
+
+#### Annex: Setup / Requirements
+- Consider organisation and expenses
+- See footnotes.
