@@ -1,15 +1,14 @@
 Company: SpaceZ
 Contact: Nemo Lusk
 Title: Chief Comparative thanatologist & Dilution Manager
-Date: October 29, 2020
+Date: October 29, 2021
+Summary: Project summary & why this is something you are good at.
+Deliverables: This, this, and that
 References: For more details, look here
-Offer: 
-Deliverables: 
-Budget:
+The_Plan: What is you planned approach? 
+Budget: It won’t be cheap
 MyCompany: M Inc.
-Me: John Chrysostom Doe 
-MyAddress:
-MyDetails
+Me: John Chrysostom Doe
 ---
 
 
@@ -17,20 +16,19 @@ MyDetails
 
 ## Scope of work
 
-### Part 1 — This
+### Part 1 — Project summary or deliverable (AKA what’s needed)
 
-This is gonna be like this
+[%Summary], 
 
-### Part 2 — That
+Deliverables: [%Deliverables]
 
-This is gonna be like that
+References: [%References]. 
 
-## References
-[%References]
+### Part 2 — Plan or method (AKA how to do it)
 
-## Deliverables
-The thing
-## Budget 
+[%The_Plan]
+
+### Part 3 — Budget (AKA ballpark estimate)
 
 | TOTAL | Excl. VAT | Incl. VAT |
 |:-|:-|:-|
@@ -39,10 +37,12 @@ The thing
 | expenses | ```$ TBD``` | ```$ TBD``` |
 | TOTAL | **`€ This much + expenses`** | **`€ That much + expenses`** |
 
-## Thank you
+If you want a single line here, use: ```[%Budget]```
+
+### Thank you
 Thank you for getting me involved with this project. I’m delighted and ready to move forward.
 
-## Contact:
+### Contact:
 
 **[%MyCompany]**	
 *[%Me]*
@@ -65,4 +65,4 @@ Thank you for getting me involved with this project. I’m delighted and ready t
 
 #### Annex: Setup / Requirements
 - Consider organisation and expenses
-- See footnotes.
+- See footnotes
