@@ -1,14 +1,15 @@
 Company: SpaceZ
 Contact: Nemo Lusk
-Title: Chief Comparative thanatologist & Dilution Manager
+Title: Chief Comparative Thanatologist & Dilution Manager
 Date: October 29, 2021
 Summary: Project summary & why this is something you are good at.
 Deliverables: This, this, and that
 References: For more details, look here
 The_Plan: What is you planned approach? 
+The_Timeline: When will the deliveries occur?
 Budget: It won’t be cheap
 MyCompany: M Inc.
-Me: John Chrysostom Doe
+Me: John Chrysostome Doe
 ---
 
 
@@ -18,15 +19,18 @@ Me: John Chrysostom Doe
 
 ### Part 1 — Project summary or deliverable (AKA what’s needed)
 
-[%Summary], 
+[%Summary]
+
+(Optional) ```[%References]```
 
 Deliverables: [%Deliverables]
 
-References: [%References]. 
 
-### Part 2 — Plan or method (AKA how to do it)
+### Part 2 — Plan or method + timeline (AKA how to do it)
 
 [%The_Plan]
+
+[%The_Timeline]
 
 ### Part 3 — Budget (AKA ballpark estimate)
 
@@ -61,8 +65,11 @@ Thank you for getting me involved with this project. I’m delighted and ready t
 	IBAN: #FFFF 123-4567890-00
 	BIC: 123-4567890-00
 
+</small>
+
 +++
 
-#### Annex: Setup / Requirements
+#### Annex:
 - Consider organisation and expenses
 - See footnotes
+- [%References]
