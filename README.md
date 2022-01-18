@@ -30,6 +30,8 @@ This is a basic scope of work template, useful for RFP purpose that you can styl
 
 ### [Invoice tabulation example](https://github.com/YJPL/iA-Writer-Templates/blob/master/Invoice_tabulation_example.txt)
 
+*At this moment iAWriter doesn't let you write decimals*
+
 <figure>
 <a href="https://github.com/YJPL/iA-Writer-Templates/blob/master/Invoice_tabulation_example.txt"><img src="https://raw.githubusercontent.com/YJPL/iA-Writer-Templates/master/Preview/Sample_invoice_in_iA_Writer_Markdown.png"/></a>
 </figure>
