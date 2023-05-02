@@ -26,7 +26,7 @@ This is a basic scope of work template, useful for RFP purpose that you can styl
 
 ### [Basic Invoice](https://github.com/YJPL/iA-Writer-Templates/blob/master/Invoice_tabulation_example.txt)
 
-*At this moment iAWriter doesn't let you write decimals* so this is just a basic table.
+*Note that at this moment iAWriter doesn't let you write decimals*
 
 <figure>
 <a href="https://github.com/YJPL/iA-Writer-Templates/blob/master/Basic%20Invoice.txt"><img src="https://raw.githubusercontent.com/YJPL/iA-Writer-Templates/master/Preview/iAWriter_Basic_Invoice_preview.png"/></a>
