@@ -1,0 +1,38 @@
+## Invoice
+
+<address style="text-align: left; font-size: small">
+<strong>From Mrs Such</strong>
+<em>Unfreelancer</em>
+7 Street Address Name,
+1010101 City — Country Name
+Tel: + 0123456789
+[name@email.com](mailto:name@email.com)
+</address>
+
+<address style="text-align: right; font-size: small">To <strong>Mr Such</strong> 
+Surrogate Manager
+Address line 1
+Address Line 2
+Company
+Postcode, City
+VAT number</address>
+
+- Invoice **#0422**
+- Invoice date: 2023/04/02
+- Payment terms: NET 10
+- Order date:
+- Delivery date:
+- Reference/order number
+
+| Reference | Rate | Excl. VAT | VAT |
+|:-|:-|:-|:-|
+| project x | $ 200/hour  | 6000 | =(21 / 100 * 6000) |
+| changes |  | 800 | =(21 / 100 * 800) |
+|  | Subtotal € | =(C1 + C2 ) | =(TOTAL)|
+|  | TOTAL + VAT € | =(C1 + C2 + D1 + D2) | — |
+
+Total amount payable on the Cashless bank account number: 123-4567891-00
+
+
+<small>Payment is Due within ten (10) Days of receipt of invoice.
+Thank you, it’s been a pleasure working with you!</small> 
