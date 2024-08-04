@@ -1,7 +1,7 @@
 ## Invoice
 
 <address style="text-align: left; font-size: small">
-<strong>From Mrs Such</strong>
+<strong>From Mrs Unetelle</strong>
 <em>Unfreelancer</em>
 7 Street Address Name,
 1010101 City — Country Name
@@ -9,16 +9,16 @@ Tel: + 0123456789
 [name@email.com](mailto:name@email.com)
 </address>
 
-<address style="text-align: right; font-size: small">To <strong>Mr Such</strong> 
-Surrogate Manager
+<address style="text-align: right; font-size: small">To <strong>Mr so-and-so</strong> 
+Surrogate Micro-Manager
 Address line 1
 Address Line 2
 Company
 Postcode, City
 VAT number</address>
 
-- Invoice **#0422**
-- Invoice date: 2023/04/02
+- Invoice **#0442**
+- Invoice date: 2024/08/05
 - Payment terms: NET 10
 - Order date:
 - Delivery date:
@@ -26,8 +26,8 @@ VAT number</address>
 
 | Reference | Rate | Excl. VAT | VAT |
 |:-|:-|:-|:-|
-| project x | $ 200/hour  | 6000 | =(21 / 100 * 6000) |
-| changes |  | 800 | =(21 / 100 * 800) |
+| project x | $ 199/hour  | =(199 * 60) | =(21 / 100 * 11940) |
+| changes |  | 57.98 | =(21 / 100 * 57.98) |
 |  | Subtotal € | =(C1 + C2 ) | =(TOTAL)|
 |  | TOTAL + VAT € | =(C1 + C2 + D1 + D2) | — |
 
