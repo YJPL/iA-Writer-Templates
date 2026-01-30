@@ -1,11 +1,9 @@
-# Invoice in iA Writer
-
 *just a quick example*
 
-| Style + Animation | Excl. VAT | VAT |
-|:-|:-|:-|
-| original illustrations  | 3000 | =(21 / 100 * 3000) |
-| animation | 3600 | =(21 / 100 * 3600) |
-| changes/expenses | 1200 | =(21 / 100 * 3600) |
-| TOTAL € | =(TOTAL) | =(TOTAL)|
-| TOTAL INCL. VAT € | =(B1 + B2 + B3 + C1 + C2 + C3) | — |
+| Job description | Base | 21% Tax | ==Total incl. VAT== |
+|:--|:--|:--|:--|
+| original illustrations | 3000 |  |  |
+| animation | 3600 |  |  |
+| changes | 1200 |  |  |
+| expenses | 60 |  |  |
+| ==Total== | =(TOTAL) | =(21 / 100 * (B1 + B2 + B3 + B4)) | =(B1 + B2 + B3 + B4 + C5) |
