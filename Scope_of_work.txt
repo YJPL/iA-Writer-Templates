@@ -35,14 +35,20 @@ Deliverables: [%Deliverables]
 
 ### Part 3 — Budget (AKA ballpark estimate)
 
-| TOTAL | Excl. VAT | Incl. VAT |
-|:-|:-|:-|
-| preparation /  | ```￥ 15.000``` | ```￥ 18.150``` |
-| live session on event day | ```€ 1.400``` | ```€ 1.694``` |
-| expenses | ```$ TBD``` | ```$ TBD``` |
-| TOTAL | **`€ This much + expenses`** | **`€ That much + expenses`** |
+*just a quick example*
 
-If you want a single line here, use: ```[%Budget]```
+| Job description | Base | 21% Tax | ==Total incl. VAT== |
+|:--|:--|:--|:--|
+| original illustrations | 3000 |  |  |
+| animation | 3600 |  |  |
+| changes | 1200 |  |  |
+| expenses | 60 |  |  |
+| ==Total== | =(TOTAL) | =(21 / 100 * (B1 + B2 + B3 + B4)) | =(B1 + B2 + B3 + B4 + C5) |
+
+
+
+<!-- If you want a single line here, use: [%Budget] -->
+
 
 ### Thank you
 Thank you for getting me involved with this project. I’m delighted and ready to move forward.
